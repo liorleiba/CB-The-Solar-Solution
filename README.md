@@ -48,4 +48,4 @@ Used some heavy tools like the `missingno` library to explore the missing-values
 
 ---
 
-###### ***Disclaimer Note:*** *The analyzed dataset contains the initials '[GEM](#https://globalenergymonitor.org/)', which stands for the "Global Energy Monitor", an organization that monitors the global energy markets status around the world. The dataset was taken straightly from the GEM data sources.*
+###### ***Disclaimer Note:*** *The analyzed dataset contains the initials '[GEM](https://globalenergymonitor.org/)', which stands for the "Global Energy Monitor", an organization that monitors the global energy markets status around the world. The dataset was taken straightly from the GEM data sources.*
