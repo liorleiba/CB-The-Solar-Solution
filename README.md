@@ -26,9 +26,10 @@ Used that function to fill 4 different location columns, all missing-values-incl
 
 ## Explored global energy output
 
-Visualized a heatmap showcasing the capacity of each declared solar plant on Earth using the coordinates.
+Visualized a heatmap showcasing the capacity of each declared solar plant on Earth using the coordinates. <br>
+*For example*, below you can see a zoomed screenshot of China and it's surroundings' solar energy output:
 
-
+![A zoomed look of china](https://github.com/liorleiba/CB-The-Solar-Solution/blob/solar-patch-2/images/China%20Scrnshot.png)
 
 ---
 
