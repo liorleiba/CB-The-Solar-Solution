@@ -1,7 +1,7 @@
 # CB-The-Solar-Solution
 ### **General description:**
 A project analyzing the rapid growth, development, global spread and other ongoing activities of solar energy farms on recent decades around the globe. <br>
-The project was done as a part of a Code-Bridge competition hosted by Yandex.Practicum. <br>
+###### The project was done as a part of a Code-Bridge competition hosted by Yandex.Practicum. <br>
 Feel free to check the project's landing page created by my partner: [Reference>>](https://qiuhanzhou.github.io/CODEBRIDGE/)
 
 ---
