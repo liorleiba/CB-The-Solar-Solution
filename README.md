@@ -47,5 +47,17 @@ Used some heavy tools like the `missingno` library to explore the missing-values
 ![image](https://github.com/liorleiba/CB-The-Solar-Solution/blob/solar-patch-2/images/image.png)
 
 ---
+## The Dataset
+
+The analyzed "Global Solar Power Tracker" data contains 27 columns describing different aspects of solar energy projects that their rows are grouped by the hosting country of each (Alphabetically). <br>
+Each of the rows represents a single solar project's (*at a certain developement status stage*) unique characteristics information, the main ones are:
+* <b><i>Project name</i></b>.
+* <b><i>Energy capacity</i></b> information.
+* <b><i>Developement status stage</i></b>.
+* The <b><i>start year</i></b> the dev. status stage began, and also <b><i>retired year</i></b>, if available.
+* <b><i>Coordinates</i></b> (Latitude-Longitude) and <b><i>location columns</i></b> ranging from continental region to city of the solar project.
+* <b><i>Ownership</i></b> / <b><i>Operator</i></b> names.
+
+The dataset also contains local language names for non-English native countries for a few of the above aspects and others, as well as a Wikipedia page link for each project.
 
 ###### ***Disclaimer Note:*** *The analyzed dataset contains the initials '[GEM](https://globalenergymonitor.org/)', which stands for the "Global Energy Monitor", an organization that monitors the global energy markets status around the world. The dataset was taken straightly from the GEM data sources.*
