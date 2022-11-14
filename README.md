@@ -19,7 +19,7 @@ Yes, solar energy is increasingly becoming a viable fuel source for everyone. To
 I've explored the alternate solution to the energy problem, which is **the solar market**. I've researched it's growth and it's spread globally in the past years, to see how the world is running into the inevitable shifting to using solar energy as the planet's main resource.
 
 ---
-# ***Teaser points of interests***
+# ***Teaser Points of Interest***
 ***Below are some teasers from the analysis:***
 
 ## Data cleaning
@@ -41,16 +41,16 @@ Values are available to be received both in the English language (The default), 
 On that project, I used that function to fill 4 different location columns, all missing-values-inclusive, ranging from 7% up to 47% missing values of each column. 
 
 
-## Explored global energy output on the globe map
+## Explored global energy output on a "heatmaplot"
 
-Visualized a heatmap showcasing the capacity of each declared solar plant on Earth using the coordinates of each solar project on the data. The plot can be used in order to identify countries and areas that invest deeper on solar energy than others. <br>
+Visualized a ***fully interactive*** heatmap plot showcasing the capacity of each declared solar plant on Earth using the coordinates of each solar project on the data. The heatmaplot can be used in order to identify countries and areas that invest deeper on solar energy than others, and recognize trends that aren't visible on the non-plotted analyses parts of the report. <br>
 ###### *For example, below you can see a zoomed screenshot of Asia's countries' solar energy output:*<br>
 
 ![A zoomed look of china at the global energy heatmap](/images/newplot%20(1).png)
 
 
 ---
-# ***The Dataset***
+# ***The Dataset's Description***
 
 The analyzed "Global Solar Power Tracker" data contains 27 columns describing different aspects of solar energy projects that their rows are grouped by the hosting country of each (Alphabetically). <br>
 Each of the rows represents a single solar project's (*at a certain developement status stage*) unique characteristics information, the main ones are:
