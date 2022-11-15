@@ -1,4 +1,4 @@
-# ***CB-The-Solar-Solution***
+# ***CodeBridge - The Solar Solution***
 
 ## Table of contents
 - [General description](#general-description)<br>
