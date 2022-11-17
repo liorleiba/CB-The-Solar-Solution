@@ -26,7 +26,7 @@ Feel free to check the project's landing page created by my partner: [Reference>
 ### **Used Technology:**
 **Python Version:** 3.9.12 <br>
 **Packages:** pandas (1.4.2), numpy, scipy, matplotlib, seaborn, plotly, missingno, geopy, itertools, translators, loguru, pathos, re, requests
-
+  
 ###### [⭱ Back to Top](#codebridge---the-solar-solution)
 ---
 ### **Project's cause and purpose:**
