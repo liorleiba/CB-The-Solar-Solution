@@ -19,6 +19,8 @@ A project analyzing the rapid growth, development, global spread and other ongoi
 ###### The project was done as a part of a Code-Bridge competition hosted by Yandex.Practicum. <br>
 Feel free to check the project's landing page created by my partner: [Reference>>](https://qiuhanzhou.github.io/CODEBRIDGE/)
 
+###### Notice the interactive plots would not be available for sight in the preview of the Jupyter NB from the github repo.<br>
+
 ###### [⭱ Back to Top](#codebridge---the-solar-solution)
 
 ---
