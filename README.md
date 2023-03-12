@@ -17,7 +17,7 @@
 ### **General description:**
 A project analyzing the rapid growth, development, global spread and other ongoing activities of solar energy farms on recent decades around the globe. <br>
 ###### The project was done as a part of a Code-Bridge competition hosted by Yandex.Practicum. <br>
-Feel free to check the project's landing page created by my partner: [Reference>>](https://qiuhanzhou.github.io/CODEBRIDGE/)
+Feel free to check the project's landing page created by my partner: <a href='https://qiuhanzhou.github.io/CODEBRIDGE/' target='_blank'>Reference>></a>
 
 ###### Notice the interactive plots would not be available for sight in the preview of the Jupyter NB from the github repo.<br>
 
