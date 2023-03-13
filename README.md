@@ -4,7 +4,7 @@
 - [General description](#general-description)<br>
     - [A Yandex.Practicum DA project](#the-project-was-done-as-a-part-of-a-code-bridge-competition-hosted-by-yandexpracticum-)
     - [Project's website reference>>](https://qiuhanzhou.github.io/CODEBRIDGE/)
-- [Instructions prior to loading the analysis notebook](#instructions-prior-to-loading-the-analysis-notebook
+- [Instructions prior to loading the analysis notebook](#instructions-prior-to-loading-the-analysis-notebook)
 - [Used Technology](#used-technology)
 - [Project's cause and purpose](#projects-cause-and-purpose)
 - [Teaser Points of Interest](#teaser-points-of-interest)
