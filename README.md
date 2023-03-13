@@ -19,11 +19,20 @@ A project analyzing the rapid growth, development, global spread and other ongoi
 ###### The project was done as a part of a Code-Bridge competition hosted by Yandex.Practicum. <br>
 Feel free to check the project's landing page created by my partner: <a href='https://qiuhanzhou.github.io/CODEBRIDGE/' target='_blank'>Reference>></a>
 
-###### Notice the interactive plots would not be available for sight in the preview of the Jupyter NB from the github repo.<br>
+###### [⭱ Back to Top](#codebridge---the-solar-solution)
+
+---
+### **Instructions prior to loading the analysis notebook:**
+Before reading the analysis, make sure to **download the dataset**, in order for the code to work you should paste the local path to the file & make sure to keep its original name.
+
+**The Jupyter NB would require you (*****i.e. the reader*****) to install some non-builtin libraries that were used in the project**.<br>
+However, notice they will only install them **locally** in the specific notebook you'll open, and will not affect your general used environment.
+###### Notice the interactive plots would not be available for sight in the preview mode of the Jupyter NB from the github repo.<br>
 
 ###### [⭱ Back to Top](#codebridge---the-solar-solution)
 
 ---
+
 
 ### **Used Technology:**
 **Python Version:** 3.9.12 <br>
